@@ -14,7 +14,7 @@ How to play:
 
 -Type in the number from 1 to 11
 
--If your number is equal to machine, you won; otherwise, machine won!
+-If your number is equivalance to machine's, you won; otherwise, machine won!
 
 Please enjoy! (probably only me lmao)
 
