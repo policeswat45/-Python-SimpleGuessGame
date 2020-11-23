@@ -42,6 +42,7 @@ def main_game ():
             print ("The machine won!")
 
         input("Press Enter to continue...")
+        #sleep(1)         #You can add sleep function here to slow it down 
         os.system('cls')
 
 main_game()
