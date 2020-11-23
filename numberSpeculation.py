@@ -18,7 +18,7 @@ def main_game ():
     option = int(input("Type 1 to play or 2 to end "))
     while True:
         while option > 2:
-            print("Unable to complie")
+            print("Unable to comply! Please select the right option!")
             option = int(input("Type 1 to play or 2 to end "))
 
             if option <= 2:
@@ -28,7 +28,7 @@ def main_game ():
             break
 
         playerNumber = int (input ("What is your verdict? (From 1 to 11) "))
-        while playerNumber < 1 or playerNumber > 1:
+        while playerNumber < 1 or playerNumber > 11:
             print ("Please only select the number from 1 to 11")
             playerNumber = int (input("What is your verdict? (From 1 to 11) "))
 
